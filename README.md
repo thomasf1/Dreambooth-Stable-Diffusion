@@ -14,7 +14,7 @@
 - There doesn't seem to be an easy way to train two subjects consecutively. You will end up with an 11-12GB.
   - I'm currently testing ways of compressing that down to ~2GB.
   
- - You might have better luck training with `sd-v1-4-full-ema.ckpt`
+- You might have better luck training with `sd-v1-4-full-ema.ckpt`
   - However, it's huge and it's annoying.
   
 # RunPod Instructions
